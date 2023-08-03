@@ -27,13 +27,11 @@
 		"checkbox.border": "#ffffff1f",
 		//デバッグツール
 		"debugToolBar.background": "#702749",
-		//なにこれ？
 		"descriptionForeground": "#8b949e",
 		"diffEditor.insertedLineBackground": "#23863633",
 		"diffEditor.insertedTextBackground": "#2386364d",
 		"diffEditor.removedLineBackground": "#da363333",
 		"diffEditor.removedTextBackground": "#da36334d",
-		//ドロップダウンって結局どこのことだよ
 		"dropdown.background": "#363045",
 		"dropdown.border": "#ffffff1f",
 		"dropdown.foreground": "#cccccc",
@@ -51,7 +49,7 @@
 		"editorBracketHighlight.foreground5": "#bfff7f",
 		"editorBracketHighlight.foreground6": "#ffbf7f",
 		"editorGroup.border": "#ffffff17",
-		"editorGroupHeader.tabsBackground": "#221c2a", // エディタ真上のファイル欄の一番奥の拝啓
+		"editorGroupHeader.tabsBackground": "#221c2a", // エディタ真上のファイル欄の一番奥の背景
 		"editorGroupHeader.tabsBorder": "#ffffff15",
 		"editorGutter.addedBackground": "#2ea043",
 		"editorGutter.deletedBackground": "#f85149",
