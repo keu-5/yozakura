@@ -79,7 +79,8 @@
 		"list.activeSelectionForeground": "#ffffff",
 		"list.activeSelectionIconForeground": "#ffffff",
 		"list.dropBackground": "#383b3d",
-		"list.hoverBackground": "#db699a", //リストホバー時の色
+		"list.hoverBackground": "#613447", //リストホバー時の色
+		"list.inactiveSelectionBackground": "#74394c", //ホバーされていないが選択済みのリストの色
 		//メニュー(一番上)
 		"menu.background": "#702749",
 		"menu.border": "#cccccc",
@@ -434,7 +435,6 @@
 		//"list.focusHighlightForeground": "#2aaaff",
 		//"list.focusOutline": "#ff99aa",
 		//"list.highlightForeground": "#2aaaff",
-		//"list.inactiveSelectionBackground": "#37373d",
 		//"list.invalidItemForeground": "#b89500",
 		//"list.warningForeground": "#cca700",
 		//"listFilterWidget.background": "#1d1c22",
